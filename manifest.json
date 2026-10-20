@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "asottile",
+  "repo": "onigurumacffi",
+  "versions": [
+    {
+      "commit": "601c9b1b560e1907f61912e2f4eda1e835a5c95b",
+      "parsed_at": "2026-10-20T21:07:19.228310+00:00",
+      "filetree": "filetree/601c9b1b560e1907f61912e2f4eda1e835a5c95b.nq.gz",
+      "blobs": [
+        "blob/b0ac8453e0196589accc06ac3b295400c8db8e40.nq.gz",
+        "blob/a907cb0f7097ec87c89775d23ec4401436c59817.nq.gz",
+        "blob/9614f6b6e4ef49cb5001330c31617e14abcf29c8.nq.gz",
+        "blob/0c5a37eb0adeb312718e533d0a4fbcbea6880056.nq.gz",
+        "blob/5411a5a563371451e7aebc85e90b7136f6eaf858.nq.gz",
+        "blob/b6c2693071afdfc05b396e4c087145783ad3d0d7.nq.gz",
+        "blob/71a94918ea3c5780e27ec29ef8c6f5e8e9bc5ed6.nq.gz",
+        "blob/705f435f5081677d9c70fbf860964157fc41f15d.nq.gz",
+        "blob/43d6447bc04960e79eb2658cd0022591cd274810.nq.gz",
+        "blob/5c33625ee9bb41388c4511effe46317efe33cd0f.nq.gz",
+        "blob/9844cbc04909ce1852c4841c5af1c01514e88bfe.nq.gz",
+        "blob/ae935282359ec52dbd09b7f6b88b00ba55b296a5.nq.gz",
+        "blob/9a2fd90bd15492029a959ac5d2686e4b4e86ae5b.nq.gz",
+        "blob/b1447c3015af9511f2dee402ca4b5ad62adf5dce.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/2b7f71d5e6d23b73f507ecc520bcff641c5c123a.nq.gz",
+        "blob/cb0ee7117dd14286840dc8d4719db39e061e9b13.nq.gz",
+        "blob/ce4e06e1c37871b4cc2ad81f45fccd512bca3b43.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/onigurumacffi/commit/601c9b1b560e1907f61912e2f4eda1e835a5c95b",
       "git:hexsha": "601c9b1b560e1907f61912e2f4eda1e835a5c95b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/asottile/onigurumacffi/commit/448c13d70e8ac076f1fe483770eb4995d3990ab0",

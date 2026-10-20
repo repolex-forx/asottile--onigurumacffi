@@ -1,0 +1,11 @@
+{
+  "org": "asottile",
+  "repo": "onigurumacffi",
+  "versions": [
+    {
+      "commit": "601c9b1b560e1907f61912e2f4eda1e835a5c95b",
+      "tag": "",
+      "parsed_at": "2026-10-20T21:08:55.842038+00:00"
+    }
+  ]
+}
